@@ -1,5 +1,5 @@
 # Chatroom-App
-Join private chatrooms by common interest using Socket.IO 
+Join private chatrooms by common interest using Socket.IO
 
 ### Technologies used
 * Express
@@ -10,5 +10,5 @@ Join private chatrooms by common interest using Socket.IO
 * jQuery
 * Navigator.geolocation Web API
 
-![Screenshot 1](https://s3.amazonaws.com/github-other/Chatroom1.png)
-![Screenshot 2](https://s3.amazonaws.com/github-other/Chatroom2.png)
+![Screenshot 1](readme_images/Chatroom1.png)
+![Screenshot 2](readme_images/Chatroom2.png)
